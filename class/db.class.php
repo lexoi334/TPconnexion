@@ -6,7 +6,7 @@ class DB {
   private $servername = "localhost";
   private $dbname = "tp_connexion";
   private $username = "alex";
-  private $password = "pmlol0013";
+  private $password = "******";
 //fais un construct pour la connexion a la DB
   public function __construct() {
 
